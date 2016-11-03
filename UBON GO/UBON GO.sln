@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UBON GO.CSharp", "UBON GO.CSharp.csproj", "{F9023DC1-B5D1-8FE6-3C4A-AECF3EA44EEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UBON GO.CSharp.Editor", "UBON GO.CSharp.Editor.csproj", "{803D5E91-562C-27A7-5A02-462F0CA65512}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9023DC1-B5D1-8FE6-3C4A-AECF3EA44EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9023DC1-B5D1-8FE6-3C4A-AECF3EA44EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9023DC1-B5D1-8FE6-3C4A-AECF3EA44EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9023DC1-B5D1-8FE6-3C4A-AECF3EA44EEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{803D5E91-562C-27A7-5A02-462F0CA65512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{803D5E91-562C-27A7-5A02-462F0CA65512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{803D5E91-562C-27A7-5A02-462F0CA65512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{803D5E91-562C-27A7-5A02-462F0CA65512}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
